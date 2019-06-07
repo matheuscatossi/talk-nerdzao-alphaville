@@ -1,4 +1,4 @@
-# TALK NERDZÃO ALPHAVILEE
+# TALK NERDZÃO: ONE APP, TWO HOURS.
 Criar um app, consumir um serviço e deixa-lo bonito nunca foi tão fácil. Nesta talk iremos simplificar o processo de criação de um software do zero.
 
 # PARTE 1 - BACK
