@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Matheus Catossi",
+        "age": 22,
+        "company": "IBM",
+        "type": "USER"
+    },
+    {
+        "name": "Denis Magalhães",
+        "age": 23,
+        "company": "ITAU",
+        "type": "USER"
+    }
+]
