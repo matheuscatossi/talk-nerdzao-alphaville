@@ -20,4 +20,3 @@ Criar um app, consumir um serviço e deixa-lo bonito nunca foi tão fácil. Nest
 * PROVIDERS
 * CONSUMINDO ENDPOINT
 * CRIANDO LISTA E MODIFICANDO LAYOUT
-# PARTE 3 - DÚVIDAS
