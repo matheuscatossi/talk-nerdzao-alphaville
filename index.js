@@ -9,11 +9,13 @@ app.use(cors("*"));
 const connFactory = require("./connection/connFactory.js");
 
 let params = {
-    "username": "96ba32ad-e17d-494f-a93e-72240b1e0b16-bluemix",
-    "host": "96ba32ad-e17d-494f-a93e-72240b1e0b16-bluemix.cloudant.com",
-    "dbname": "talk-alphaville",
-    "password": "e373c010bcb53c3ea89a59f7fa2642789e7bfe3128bab1c3e2762b713ab04641"
+    "username": "",
+    "host": "",
+    "dbname": "",
+    "password": ""
 };
+
+
 
 app.get('/api/test', function (req, res) {
     console.log("GET /api/test");
