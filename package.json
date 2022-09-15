@@ -18,7 +18,7 @@
         "q": "^1.5.1",
         "querystring": "^0.2.0",
         "util-promisifyall": "^1.0.4",
-        "vcap_services": "^0.6.0"
+        "vcap_services": "^0.7.1"
     },
     "devDependencies": {
         "webpack": "^3.8.1"
